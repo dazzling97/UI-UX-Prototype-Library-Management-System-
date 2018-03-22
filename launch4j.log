@@ -1,0 +1,14 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Sanoj Dilshan\Desktop\Library\Library management system.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Sanoj Dilshan\Desktop\Library\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_121
+Check launcher:	C:\Users\Sanoj Dilshan\Desktop\Library\bin\jre1.8.0_121\bin\javaw.exe (OK)
+Launcher:	C:\Users\Sanoj Dilshan\Desktop\Library\bin\jre1.8.0_121\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Sanoj Dilshan\Desktop\Library\Library management system.exe"
+Args length:	75/32768 chars
+Exit code:	0
